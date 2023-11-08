@@ -1,4 +1,4 @@
-# Rezolvarea algoritmica pentru cele doua cerine: Varsta in functie de CNP si Taxele in functie de capacitatea cilindrica. _ nu mi-a iesit sa atribui variabelelor conditiile respective _
+# Rezolvarea algoritmica pentru cele doua cerine: Varsta in functie de CNP si Taxele in functie de capacitatea cilindrica. ( nu mi-a iesit sa atribui variabelelor conditiile respective )
 
 # Aflarea varstei in functie de CNP
 
