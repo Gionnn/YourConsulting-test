@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "brand": "Volkswagen",
+    "model": "Golf 6",
+    "year": "2010",
+    "capacity": "1599",
+    "taxes": "100"
+  },
+  {
+    "id": 2,
+    "brand": "Ford",
+    "model": "Focus",
+    "year": "2017",
+    "capacity": "1000",
+    "taxes": "50"
+  },
+  {
+    "id": 3,
+    "brand": "Skoda",
+    "model": "Octavia",
+    "year": "2020",
+    "capacity": "2000",
+    "taxes": "200"
+  },
+  {
+    "id": 4,
+    "brand": "BMW",
+    "model": "Seria 3",
+    "year": "2006",
+    "capacity": "2000",
+    "taxes": "200"
+  },
+  {
+    "id": 5,
+    "brand": "Ferrari",
+    "model": "F8",
+    "year": "2009",
+    "capacity": "1999",
+    "taxes": "150"
+  }
+]

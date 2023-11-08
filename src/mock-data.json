@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Ion",
+    "surname": "Popescu",
+    "cnp": "50106292039",
+    "age": "22",
+    "cars": "Skoda Octavia"
+  },
+  {
+    "id": 2,
+    "name": "Andra",
+    "surname": "Iulia",
+    "cnp": "60208232249",
+    "age": "21",
+    "cars": "VW Golf 6"
+  },
+  {
+    "id": 3,
+    "name": "Marian",
+    "surname": "Costica",
+    "cnp": "50005192293",
+    "age": "23",
+    "cars": "BMW Seria 3"
+  },
+  {
+    "id": 4,
+    "name": "Vlad",
+    "surname": "Paduraru",
+    "cnp": "19502232903",
+    "age": "28",
+    "cars": "Ferrari F8"
+  },
+  {
+    "id": 5,
+    "name": "Maria",
+    "surname": "Pasare",
+    "cnp": "60803213982",
+    "age": "15",
+    "cars": "Ford Focus"
+  }
+]
